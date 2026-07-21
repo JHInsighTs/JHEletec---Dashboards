@@ -1,4 +1,4 @@
-# JHEletec - POWER BI - Dashboards
+# POWER BI - Dashboards
 
 <p align="center">
   <img src="CapaGITHUB.png" alt="Capa do projeto" width="100%">
